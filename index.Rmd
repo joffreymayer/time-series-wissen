@@ -1,9 +1,10 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Time Series Wissen"
+author: "Joffrey Anthony"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
 # Down the rabbit-hole
 
+Hallo =)
