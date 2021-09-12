@@ -5,6 +5,15 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Introduction
 
-Hallo =)
+In this book, I will summarize everything that I know about time series analysis.
+
+## Ferien &amp; "Special Events" Charakteristiken
+
+Many time series are characterized by holidays, as well as *other special events*. The following characteristics can be observed, when you are faced with those types of regressors:
+
+- They provide large, somewhat predictable shocks.
+- <u>Oftentimes</u>, they do *not* follow a periodic pattern. For instance, Thanksgiving in the United States occurs on the fourth Thursday in November.
+- Because of this irregular pattern of occurence (non-periodic), it is diﬃcult to implement a function that is able to declare these events.
+- Typically, the impact of a particular holiday on the time series is often similar, year after year.
