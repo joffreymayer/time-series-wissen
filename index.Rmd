@@ -7,7 +7,7 @@ site: bookdown::bookdown_site
 
 # Introduction
 
-In this book, I will summarize everything that I know about time series analysis.
+In this book, I will summarize everything that I know about time series analysis. Hallo =)
 
 ## Ferien &amp; "Special Events" Charakteristiken
 
